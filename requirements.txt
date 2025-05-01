@@ -1,0 +1,10 @@
+Flask
+flask-cors
+joblib
+numpy
+# plus whatever else your pipeline needs (scikit-learn, pandas, etc.)
+scikit-learn
+pandas
+openpyxl
+seaborn
+matplotlib
