@@ -64,7 +64,7 @@ These insights helped refine the **training strategy**, enabling the model to co
 
 The Random Forest classifier was used to determine the **most suitable disinfectant** based on detected germ species and colony counts.
 
-<img src="https://raw.githubusercontent.com/yourusername/smart-hygiene/main/plots/disinfectant_f1_scores.png" width="500"/>
+<img src="https://github.com/Iyed0092/Smart-Hygiene-Centre-National-de-Greffe-Tunis-/raw/main/assets/classifier%20disinfectants.png" width="500"/>
 <p align="center"><em>Classification report showing F1-scores, precision, and recall for each disinfectant class.</em></p>
 
 
