@@ -43,7 +43,7 @@ Before building predictive models, we performed **unsupervised clustering** to b
 The **Centre National de Greffe** operates numerous rooms and cabins (e.g., *Cabine 1, Cabine 2, Chambre Lyma, Chambre Trabelsi,* etc.).  
 We used the **Silhouette Method** to determine the optimal number of clusters and to **group cabins with similar germ patterns and colony counts**.
 
-<img src="https://raw.githubusercontent.com/yourusername/smart-hygiene/main/plots/silhouette_cabines.png" width="500"/>
+<img src="https://github.com/Iyed0092/Smart-Hygiene-Centre-National-de-Greffe-Tunis-/raw/main/assets/silhouette-chambres.png"/>
 <p align="center"><em>Silhouette plot for cabine clustering — identifying similar contamination profiles.</em></p>
 
 ### 🪑 Furniture Grouping Analysis
@@ -51,7 +51,7 @@ A similar clustering approach was applied to the **furniture items** present in 
 for instance, *chaise, chaise percée, dessus éclairage, interphone, lit, matelas, lavabo,* etc.  
 This helped group **furniture pieces that tend to harbor similar types of germs**.
 
-<img src="https://raw.githubusercontent.com/yourusername/smart-hygiene/main/plots/silhouette_furniture.png" width="500"/>
+<img src="https://github.com/Iyed0092/Smart-Hygiene-Centre-National-de-Greffe-Tunis-/raw/main/assets/silhouette-pt-prelevement.png" width="500"/>
 <p align="center"><em>Silhouette plot for furniture clustering — identifying contamination patterns by object type.</em></p>
 
 These insights helped refine the **training strategy**, enabling the model to consider contextual correlations between *room type* and *surface type* when predicting disinfectant recommendations.
