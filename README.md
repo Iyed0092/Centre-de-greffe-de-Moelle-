@@ -80,7 +80,6 @@ The classifier determines the **most suitable disinfectant** based on detected g
 The regressor predicts the **optimal volume of disinfectant** for each surface and germ type.
 
 - **Erreur Quadratique Moyenne (EQM): 0.00043**  
-- Highly precise predictions suitable for real-world dosage optimization  
 
 ---
 
